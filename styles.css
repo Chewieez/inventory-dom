@@ -1,0 +1,29 @@
+section {
+    padding: .5em;
+    margin: .2em;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin-top: 0em;
+    padding-left: .3em;
+    border-bottom: 1.4px solid;
+    border-left: 1.4px solid;
+}
+.electronics {
+    color: whitesmoke;
+    background-color: rgba(196, 196, 196, 0.849);
+    border-radius: 8px;
+}
+
+.furniture {
+    color: whitesmoke;
+    background-color: rgba(207, 153, 103, 0.822);
+    border-radius: 8px;
+}
+
+.sportsEquipment {
+    color: whitesmoke;
+    background-color: rgba(110, 163, 224, 0.884);
+    border-radius: 8px;
+}
